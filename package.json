@@ -16,6 +16,6 @@
         "postcss": "^8.1.14"
     },
     "dependencies": {
-        "vercel-php": "^0.3.2"
+        "vercel-php": "^0.3.1"
     }
 }
